@@ -9,6 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 	> git clone https://github.com/nkamali/YouTubeReact.git
 	> cd YouTube
+  > In index.js, replace with a valid API_KEY
 	> npm install
 	> npm start
 ```
